@@ -208,3 +208,7 @@ I reserve the right to amend this syllabus to better facilitate
 students’ learning. Changes to the syllabus (if any) will be announced
 in the news section and a new syllabus will be posted on the class
 website.
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License 
+
+![Image](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
