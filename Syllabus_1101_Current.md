@@ -155,25 +155,19 @@ Normandale provides a broad range of support services for you. I
 strongly encourage you to use these resources as past student experience
 shows that students who use support services succeed.
 
--   [**Counseling-**](http://www.normandale.edu/advising-and-services/personal-counseling)
-    This department, located at the front of the College Services
+-   [**Counseling-**](http://www.normandale.edu/advising-and-services/personal-counseling) This department, located at the front of the College Services
     building provides personal counseling and can refer you to
     community services. For your mental health, they are there,
     including if you need an *emergency mental health
     session*. 952-358-8261.
 
--   [**Academic
-    Advising-**](http://www.normandale.edu/advising-and-services/academic-advising)-
-    This department can help you chose classes, an emphasis, plan for
+-   [**Academic Advising-**](http://www.normandale.edu/advising-and-services/academic-advising) This department can help you chose classes, an emphasis, plan for
     your transfer to a four-year college, and offer career advice.
     952-358-8261.
 
--   [**Veterans Resource
-    Center-**](http://www.normandale.edu/advising-and-services/veterans)
-    a one-stop shop for information and support. 952-358-8501
+-   [**Veterans Resource Center-**](http://www.normandale.edu/advising-and-services/veterans) a one-stop shop for information and support. 952-358-8501
 
--   [**Tutoring Center-***](http://catalog.normandale.edu/260.htm)
-    Houses the writing tutors along with math, science, logic, reading
+-   [**Tutoring Center-**](http://catalog.normandale.edu/260.htm) Houses the writing tutors along with math, science, logic, reading
     and EAP tutors. Free and walk-in hours. 952-358-8830
 
 -   [**Child Care-**](http://catalog.normandale.edu/264.htm) Learning Tree
