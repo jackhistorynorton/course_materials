@@ -2,9 +2,9 @@
 
 ##### Welcome to History 1101 #####
 
-This document is long, but **essential reading** if you want to learn about the past (and pass this class). We are going to be doing history, digital history, in ways that are both familiar and foreign to you. As a course in 2016, we can take advantage of new ways of doing history. Much of the basics of history  haven’t changed: we still look at sources from the past, draw relationships between those sources, and then make arguments about why things happened to different people at specific times. 
+This document is long, but **essential reading** if you want to learn about the past (and pass this class). We are going to be doing history, digital history, in ways that are both familiar and foreign to you. As a course in 2016, we can take advantage of new ways of doing history. Much of the basics of history  haven't changed: we still look at sources from the past, draw relationships between those sources, and then make arguments about why things happened to different people at specific times. 
 
-What has changed is our way of getting at the past, our toolbox of history. Before we had books, and museum objects, and pictures, and letters and all sorts of other physical stuff. And all that stuff was in museums and archives. Now, we have all that, and new digital tools that give use greater access to the stuff we had before, and new ways of understanding it. For example, go [here](http://orbis.stanford.edu/#mapping). 10 years ago we simply couldn’t do this type of analysis. Now you can read a letter from a ruler to his wife in which he says it took him 15 days to go from Constantinople to Rome and you can ask "was the noblemen telling the truth?" We can ask different questions with different tools. 
+What has changed is our way of getting at the past, our toolbox of history. Before we had books, and museum objects, and pictures, and letters and all sorts of other physical stuff. And all that stuff was in museums and archives. Now, we have all that, and new digital tools that give use greater access to the stuff we had before, and new ways of understanding it. For example, go [here](http://orbis.stanford.edu/#mapping). 10 years ago we simply couldn't do this type of analysis. Now you can read a letter from a ruler to his wife in which he says it took him 15 days to go from Constantinople to Rome and you can ask "was the noblemen telling the truth?" We can ask different questions with different tools. 
 
 So, we are going to use a bunch of new digital tools this semester. One advantage of this approach is that everything I want you to use is: free, web-based, and user-friendly. As long as you can use a web-browser, you can use this semester’s digital tools. I assume you can successfully navigate a web browser: that's it. 
 
@@ -71,9 +71,7 @@ For the content of the course, we are going to cover from around prehistory to a
 2. Tell me something about yourself in my get-to-know ya [form.](https://docs.google.com/forms/d/e/1FAIpQLSfZJqhI6XCHujrBYZuyLj1Cz5iI1i-epK59_kEy3lSQcUqtmQ/viewform)  
 3. Read the History Bootcamp Readings and Assignments and work through its activities and readings in the first two weeks. 
 
-
 It would be useful to me if you could **load a picture of yourself,** or an avatar into D2L so that we can all get to know you.  
-
 
 Looking forward to meeting y'all.  
 
