@@ -79,6 +79,7 @@ As an incentive for regular attendance, online-only students who turn in all
 their assignments on-time, and miss no discussions or quizzes, will earn
 a bonus of 4% on their final grade. the same bonus is available to face-to-face students who have no absences for the entire semester. 
 **Grades**
+
 | Grades Items                                  | Weighted Percentage |
 | --------------------------------------------- | ------------------- |
 | Module Assignments                            | 49%                 |
