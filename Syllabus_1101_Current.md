@@ -78,6 +78,14 @@ course regularly throughout the week. In my face-to-face courses I take attendan
 As an incentive for regular attendance, online-only students who turn in all
 their assignments on-time, and miss no discussions or quizzes, will earn
 a bonus of 4% on their final grade. the same bonus is available to face-to-face students who have no absences for the entire semester. 
+**Grades**
+| Grades Items                                  | Weighted Percentage |
+| --------------------------------------------- | ------------------- |
+| Module Assignments                            | 49%                 |
+| Exhibits                                      | 10%                 |
+| Discussions(Online)/ Response Documents (F2F) | 22%                 |
+| Quizzes                                       | 16%                 |
+| Class Citizenship                             | 2%                  |
 
 **E-Learning- What you need to know**– *You must use your student email
 for all emails to me*. Despite the digital methods of this history course, this is NOT a learn at your own pace course. The due dates for assignments are hard (Fridays at 8 p.m.) and discussion boards close at the same time (for online classes). Online-only education allows you to learn without coming to campus, but it is in fact a more demanding form of college. Online-only students need to be a reasonably skilled keyboardists and comfortable with computer technology. If the words upload, download, convert to pdf, or "As Jon mentioned in his post on religion. . . " are foreign to you, an online-only course might not be the course for you. I want you to succeed, which is why I want you to be honest with yourself about your abilities. Face-to-face courses let me offer real-time support and are generally easier (or so report my students). 
