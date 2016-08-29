@@ -35,7 +35,8 @@
 
 * Leftwich, Brent. "Prehistoric Europe: Overview." Daily Life through History. ABC-CLIO, 2015. Web. 23 Aug. 2015.
 [Link](http://dailylife2.abc-clio.com.ndcproxy.mnpals.net/Topics/Display/1945301?cid=41&sid=1945301&useConcept=False)
-**Do**:
+**Do**: [Markdown Tutorial](http://commonmark.org/help/tutorial/)
+[History Bootcamp II Assignment](http://jacknorton.org/courses/world-history-1101-fall-2016/assignments-1101-fall-2016/history-bootcamp-ii-assignment/)
 
 ### Week 3, September 4 - 10, Time I ###
 
@@ -48,7 +49,7 @@
 * "Aspasia of Miletus (c. 464 BCEñc. 420 BCE)." Dictionary of Women Worldwide: 25,000 Women Through the Ages. Ed. Anne Commire and Deborah Klezmer. Vol. 1. Detroit: Yorkin Publications, 2007. 92. Gale Virtual Reference Library. Web. 1 Sept. 2015. [Link](http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX2588801188&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=29ae3ec878316ca0afa6cd2715276b6d)
 
 * "Aryans Compose the Vedas." Global Events: Milestone Events Throughout History. Ed. Jennifer Stock. Vol. 2: Asia and Oceania. Farmington Hills, MI: Gale, 2014. 33-35. Gale Virtual Reference Library. Web. 1 Sept. 2015. [Link](http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX3728000188&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=3b189c90dc2a48db749f7b886f23fb9f)
-**Do**:
+**Do**: Complete the [Markdown Tutorial](http://commonmark.org/help/tutorial/)
 
 ### Week 4, September 11 – 17, Time II ###
 
