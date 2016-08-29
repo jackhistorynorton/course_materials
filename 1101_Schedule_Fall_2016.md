@@ -1,5 +1,6 @@
 ## Schedule: World History 1101, Fall 2016 ##
 
+Face-to-face [daily schedule](https://github.com/jackhistorynorton/history_1101/blob/master/daily_schedule)
 
 ### Week 1, Aug 21 – 27: History Bootcamp I ###
 
