@@ -1,6 +1,16 @@
+###### [Syllabus] – [Assignments] – [Schedule]– [Brightspace (D2L)] - [Home] ######
+
+—
+
+  [Syllabus]: http://jacknorton.org/courses/world-history-1101-fall-2016/syllabus-1101-fall-2016/
+  [Assignments]: http://jacknorton.org/courses/world-history-1101-fall-2016/assignments-1101-fall-2016/
+  [Schedule]: http://jacknorton.org/courses/world-history-1101-fall-2016/schedule-1101-fall-2016/
+  [Brightspace (D2L)]: https://normandale.ims.mnscu.edu/index.asp
+  [Home]: https//jacknorton.org/courses/world-history-1101-fall-2016/
+
 ## Schedule: World History 1101, Fall 2016 ##
 
-Face-to-face [daily schedule](https://github.com/jackhistorynorton/history_1101/blob/master/daily_schedule)
+For my face-to-face students, our daily [class outline](https://github.com/jackhistorynorton/history_1101/blob/master/daily_schedule)
 
 ### Week 1, Aug 21 – 27: History Bootcamp I ###
 
