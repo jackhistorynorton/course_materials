@@ -60,7 +60,9 @@ For my face-to-face students, our daily [class outline](https://github.com/jackh
 * "Aspasia of Miletus (c. 464 BCEñc. 420 BCE)." Dictionary of Women Worldwide: 25,000 Women Through the Ages. Ed. Anne Commire and Deborah Klezmer. Vol. 1. Detroit: Yorkin Publications, 2007. 92. Gale Virtual Reference Library. Web. 1 Sept. 2015. [Link](http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX2588801188&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=29ae3ec878316ca0afa6cd2715276b6d)
 
 * "Aryans Compose the Vedas." Global Events: Milestone Events Throughout History. Ed. Jennifer Stock. Vol. 2: Asia and Oceania. Farmington Hills, MI: Gale, 2014. 33-35. Gale Virtual Reference Library. Web. 1 Sept. 2015. [Link](http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX3728000188&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=3b189c90dc2a48db749f7b886f23fb9f)
-**Do**: Complete the [Markdown Tutorial](http://commonmark.org/help/tutorial/)
+* 
+**Do**:[Time I Assignment](http://jacknorton.org/wp-content/uploads/2016/09/Time_I_-Lesson_Plan_1101_FA16.html) 
+Complete the [Markdown Tutorial](http://commonmark.org/help/tutorial/)
 
 ### Week 4, September 11 – 17, Time II ###
 
