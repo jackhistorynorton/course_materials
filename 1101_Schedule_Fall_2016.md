@@ -83,7 +83,7 @@ Once you've had a chance to digest the clip of Sita Sings the Blues consider how
 [ Movie Review of Sita Sings the Blues](http://www.nytimes.com/2009/02/15/movies/15roch.html?_r=0)
 ["Quick guide to the Ramayana"](http://www.bl.uk/onlinegallery/whatson/exhibitions/ramayana/guide.html) From our friends at the British Library
 
-**Do**:
+**Do** [Time II Assignment](http://jacknorton.org/wp-content/uploads/2016/09/Time_II_-Assignment_1101_FA16.html)
 
 ### Week 5, Sept 18 – 24, Images I ###
 
