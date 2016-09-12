@@ -1,7 +1,5 @@
 ###### [Syllabus] – [Assignments] – [Schedule]– [Brightspace (D2L)] - [Home] ######
 
-—
-
   [Syllabus]: http://jacknorton.org/courses/world-history-1101-fall-2016/syllabus-1101-fall-2016/
   [Assignments]: http://jacknorton.org/courses/world-history-1101-fall-2016/assignments-1101-fall-2016/
   [Schedule]: http://jacknorton.org/courses/world-history-1101-fall-2016/schedule-1101-fall-2016/
@@ -64,7 +62,7 @@ For my face-to-face students, our daily [class outline](https://github.com/jackh
 **Do**:[Time I Assignment](http://jacknorton.org/wp-content/uploads/2016/09/Time_I_-Lesson_Plan_1101_FA16.html) 
 Complete the [Markdown Tutorial](http://commonmark.org/help/tutorial/)
 
-### Week 4, September 11 – 17, Time II ###
+### Week 4, September 11 – 17, Time II, Quiz 3 ###
 
 **Read, View, or Play**: * "Hammurabi Establishes a Legal Code." Global Events: Milestone Events Throughout History. Ed. Jennifer Stock. Vol. 5: Middle East. Farmington Hills, MI: Gale, 2014. 38-40. Gale Virtual Reference Library. Web. 1 Sept. 2015. [Link](http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX3728000678&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=8720db12dfbc77b2beecd943a9723818)
 
@@ -85,7 +83,7 @@ Once you've had a chance to digest the clip of Sita Sings the Blues consider how
 
 **Do** [Time II Assignment](http://jacknorton.org/wp-content/uploads/2016/09/Time_II_-Assignment_1101_FA16.html)
 
-### Week 5, Sept 18 – 24, Images I ###
+### Week 5, Sept 18 – 24, Images I, Quiz 4 ###
 
 **Read, View, or Play**: * Loy, Pamela S. "Lysistrata." World Literature and Its Times: Profiles of Notable Literary Works and the Historical Events That Influenced Them. Joyce Moss. Vol. 8: Classical Literature and Its Times. Detroit: Gale, 2006. 209-217. Gale Virtual Reference Library. Web. 14 Sept. 2015. [Link](http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX2876000031&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=a55a914b526f47ef23510ec423c7a0ef)
 
@@ -99,7 +97,7 @@ I O'Neal, Michael J. "Art in Ancient Greece." Encyclopedia of Society and Cultur
 * Brown, Robert. "Guptan Period Art." Encyclopedia of India. Ed. Stanley Wolpert. Vol. 2. Detroit: Charles Scribner's Sons, 2006. 164-167. Gale Virtual Reference Library. Web. 14 Sept. 2015. [Link](http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX3446500257&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=afe79fe82134190c97237e0b65880e05)
 **Do**:
 
-### Week 6, Sept 25 – Oct 1, Images II ###
+### Week 6, Sept 25 – Oct 1, Images II, Quiz 5 ###
 
 **Read, View, or Play**: [Met Museum Gupta Collection](http://www.metmuseum.org/search-results?ft=gupta&rpp=100&pg=1) Open at least ten images and note their commonalities and differences.
 
@@ -111,7 +109,7 @@ Selection from [Lysistrata](http://jacknorton.org/courses/world-history-1101-fal
 
 **Do**:
 
-### Week 7, October 2 – 8, Maps Week I ###
+### Week 7, October 2 – 8, Maps Week I, Quiz 6 ###
  
 **Read, View, or Play**: "Geography" _World Eras._ Ed. John T. Kirby. Vol. 3: Roman Republic and Empire, 264 B.C.E.- 476 C.E. Detroit: Gale, 2001. 396-398. Gale Virtual Reference Library. Web. 14 Sept. 2015. [Link](http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX3034800233&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=f23a8e1cee5dde99f5c041e0f8c243f1)
 
@@ -127,7 +125,7 @@ Selection from [Lysistrata](http://jacknorton.org/courses/world-history-1101-fal
 
 **Do**:
 
-### Week 8, October 9 – 15, Maps II ###
+### Week 8, October 9 – 15, Maps II, Quiz 7 ###
 
 **Read, View, or Play**: [Digital Augustan Rome: Read Mapping Augustan Rome, An Introduction & #247 on map "Circus Maximus"](http://digitalaugustanrome.org/)
 
@@ -137,7 +135,7 @@ Selection from [Lysistrata](http://jacknorton.org/courses/world-history-1101-fal
 
 **Do**:
 
-### Week 9, October 16 – 22, Words I ###
+### Week 9, October 16 – 22, Words I, Quiz 8 ###
 
 **Read, View, or Play**: [Mayan Creation Myths](http://ndcproxy.mnpals.net/login?url=http://dailylife2.abc-clio.com/Search/Display/1426455?terms=popol+vuh)
 [An introduction to Sastra Literature](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com/ps/i.do?id=GALE%7CCX3424502751&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=5157d1adffee2a3de56bda903c9f0e6a)
@@ -148,7 +146,7 @@ Selection from [Lysistrata](http://jacknorton.org/courses/world-history-1101-fal
 
 **Do**:
 
-### Week 10, Oct 23 – 29, Words II ###
+### Week 10, Oct 23 – 29, Words II, Quiz 9 ###
 
 **Read, View, or Play**: [Popul Vuh short reading](http://ndcproxy.mnpals.net/login?url=http://dailylife2.abc-clio.com/Search/Display/1426468?terms=origin myths)
 
@@ -162,7 +160,7 @@ Selection from [Lysistrata](http://jacknorton.org/courses/world-history-1101-fal
 
 **Do**:
 
-### Week 11, Oct 30 – Nov 5, Numbers I ###
+### Week 11, Oct 30 – Nov 5, Numbers I, Quiz 10 ###
 
 **Read, View, or Play**: [Early Martime Contacts in India](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com/ps/i.do?id=GALE|CX3446500196&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=be87b3c7f5e926b99a2cfd511f84b6fc)
 
@@ -176,7 +174,7 @@ Selection from [Lysistrata](http://jacknorton.org/courses/world-history-1101-fal
 
 **Do**:
 
-### Week 12, November 6 – 12, Numbers II ###
+### Week 12, November 6 – 12, Numbers II, Quiz 11 ###
 
 **Read, View, or Play**: [Trade in the Medieval World ](http://ndcproxy.mnpals.net/login?url=http://dailylife2.abc-clio.com/Search/Display/1425925?terms=trade)
 
@@ -190,7 +188,7 @@ Selection from [Lysistrata](http://jacknorton.org/courses/world-history-1101-fal
 
 **Do**:
 
-### Week 13, November 13 – 19, Conversations I ###
+### Week 13, November 13 – 19, Conversations I, Quiz 12 ###
 
 **Read, View, or Play**: [Background on Mansa Musa](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com/ps/i.do?id=GALE%7CCX3049000418&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=b984ce6eaef110727b169c373d06c629)
 
@@ -202,7 +200,7 @@ Also, see *Conversations I assignment* for additional instructions. You will fin
 
 **Do**:
 
-### Week 14, November 20 – 26, Conversations II ###
+### Week 14, November 20 – 26, Conversations II, Quiz 13 ###
 
 **Read, View, or Play**: ["Social Media as a Primary Soruce: A Coming of Age"](http://er.educause.edu/articles/2013/12/social-media-as-a-primary-source-a-coming-of-age)
 
