@@ -95,7 +95,8 @@ Once you've had a chance to digest the clip of Sita Sings the Blues consider how
 I O'Neal, Michael J. "Art in Ancient Greece." Encyclopedia of Society and Culture in the Ancient World. New York: Facts On File, 2007. Accessed September 14, 2015. [Link](http://online.infobase.com.ndcproxy.mnpals.net/Auth/Index?aid=100853&itemid=WE49&articleId=226725)
 
 * Brown, Robert. "Guptan Period Art." Encyclopedia of India. Ed. Stanley Wolpert. Vol. 2. Detroit: Charles Scribner's Sons, 2006. 164-167. Gale Virtual Reference Library. Web. 14 Sept. 2015. [Link](http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX3446500257&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=afe79fe82134190c97237e0b65880e05)
-**Do**:
+
+**Do**:  [Images I Assignment](http://jacknorton.org/wp-content/uploads/2016/09/images_assignment_1_1101.html)
 
 ### Week 6, Sept 25 – Oct 1, Images II, Quiz 5 ###
 
