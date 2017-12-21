@@ -14,9 +14,9 @@ By the end of this lesson, students should be able to:
 1. Sign their name to their record in the "Description box." 
 1. Recognize the importance of sequence in telling a story on a GIS map. 
 
-## 2. Log in to our Omeka site at http://jacknorton.org/1101-fall-16-omeka/admin/users/login
+## 2. Log in to our Omeka site at http://jacknorton.org/1101-spring-2017/admin/users/login
 
-[http://jacknorton.org/1101-fall-16-omeka/admin/users/login](http://jacknorton.org/1101-fall-16-omeka/admin/users/login)
+[http://jacknorton.org/1101-spring-2017/admin/users/login](http://jacknorton.org/1101-spring-2017/admin/users/login)
 
 ![][1]
 

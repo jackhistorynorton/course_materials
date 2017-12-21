@@ -12,7 +12,7 @@
 
 ## Log in to Omeka 
 
-[http://jacknorton.org/1101-fall-16-omeka/admin/users/login](http://jacknorton.org/1101-fall-16-omeka/admin/users/login) 
+[http://jacknorton.org/1101-spring-2017/admin/users/login](http://jacknorton.org/1101-spring-2017/admin/users/login) 
 
 ## Create collection with you name. 
 
